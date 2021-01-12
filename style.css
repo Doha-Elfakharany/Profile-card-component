@@ -11,6 +11,7 @@ body {
     width: 473px;
     background-color: white;
     border-radius: 15px;
+    margin: 200px 0 0 600px;
 
 }
 
@@ -33,6 +34,8 @@ body {
     left: 160px;
     align-content: center;
     border: 7px solid white;
+    margin: 180px 0 0 620px;
+
 }
 
 h1 {
