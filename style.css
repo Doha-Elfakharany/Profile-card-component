@@ -38,12 +38,15 @@ body {
 h1 {
     text-align: center;
     margin: 80px 0px 3px 0px;
+    font-family: 'Kumbh Sans', sans-serif;
 }
 
 #country {
     text-align: center;
     margin: 2px 0px 5px 0px;
     color: gainsboro;
+    font-family: 'Kumbh Sans', sans-serif;
+    
 }
 
 
@@ -66,6 +69,7 @@ hr.style16:after {
 .ln1 span{
     padding: 20px;
     text-align: center;
+    font-family: 'Kumbh Sans', sans-serif;
 }
 
 .ln1 {
@@ -77,6 +81,7 @@ hr.style16:after {
     text-align: center;
     color: gainsboro;
     letter-spacing: 1px;
+    font-family: 'Kumbh Sans', sans-serif;
 }
 
 .ln2 {
